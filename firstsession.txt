@@ -1,0 +1,18 @@
+
+6-27-17
+Class Notes For Session 1 
+
+A computer is an electronic device that combines software and hardware. It understands the commands you send it using the binary system. A computer can be compared with a human. An example would be the CPU is equivalent to the brain. The CPU stands for the Central Processing Unit. The CPU keeps things in memories like a brain. For example, let’s say you are given a simple question like, “What is 4+1?” You would memorize the answer in your brain. If I am given a hard question, then I would solve it slower than if I had a team to help me. So the more CPU in a computer, the quicker the computer will run, like the more brains on a task, the quicker it is solved.
+
+	We learned about Hardware and Software. Hardware is something you can feel, like a keyboard or the mouse. Some very important hardware pieces we discussed where the CPU, RAM, and the Hard Disc. Like I said before, the CPU is the Central Processing Unit. The computer won’t work without the CPU. The RAM is like a scratch pad, where you can use it to solve a hard problem and throw it away later. For example, if you were asked the question, “ What is 1234098765+10293*800435?” You would need a scratch pad, but then you don’t need to memorize it, so you can just throw it away. The Hard Disk is sort of the opposite of a RAM. If you were asked to memorize the house number of everyone’s house, you would need to write it down. Write it down somewhere, and keep it forever. That is exactly what a Hard Disk does. 
+
+Software is  something in a computer that you can’t touch, like a program. Examples would be like Adobe Spark, or ThingLink. These are all programs in a computer, but you can’t physically interact with it. A special type of Software we learned about is called OS, or the Operating System. OS is used to run other programs. Different computers have different OS’. My computer’s OS is Windows 10. There is also Linux, XP, OS X, and many more. To program something, you must give a Predicate along with the data. An example of a line of program would be, “Bike around the neighborhood five times.” The predicate would be, “Bike.” The data would be, “...around…. Neighborhood… 5 times.” 
+
+A computer can only understand 2 thing;On and Off. This is why computers use the Binary System. The Binary system contains 2 number, hence the name, 0 and 1. But what we usually use is different. We use the Decimal System, which consists of 10 numbers,0-9. If you want to convert the Binary System to Decimal System,the only way to do so is to put the numbers as:1,2,4,8,16,32,64,128,256 
+and so on. For example, you can say 11100111. So you would write (1 * 2^7) + (1 * 2^6) + (1 * 2^5) + (0 * 2^4) + (0 * 2^3) +(1 * 2^2) + (1 * 2^1) + (1 * 2^0)= 128+64+32+0+0+4+2+1=231. 
+
+We also learned to convert Decimal to Binary. Take a simple word, like ANT. Now we have to convert each letter into a number. Google says that A=65, N=78, and T=84. (Notice all letters are Capitals.) Break down the first number:65. Use the numbers we used when we converted binary to decimal. 65 can break into 64 and 1. To change it into binary, you have to see which numbers are missing in the order until 8 numbers (1,2,4,8,16,32,64,128)
+There is a 1 in the 2 numbers we selected(1 and 64), so the first conversion is 1. Then we see if there is a 2. There is no 2, so the second conversion is a 0. You go on like this until you are at the point that asks, “is there a 128?” So the whole conversion would be 10000010. (There is a number 1-yes. Number 2-no. Number 4-no. Number 8-no. Number 16-no. 32-no. 64-yes. 128-no.- every “no” is a 0, every “yes” is a 1) Then you convert the rest of the numbers the same way. 
+
+	This is what I learnt in my first Java session……………….
+
