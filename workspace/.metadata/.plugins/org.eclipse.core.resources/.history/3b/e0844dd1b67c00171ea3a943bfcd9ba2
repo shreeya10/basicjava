@@ -1,0 +1,10 @@
+
+public class Person {
+	int age;
+	String name;
+	int grade;
+	Person P1= new Person();
+	P1.age= 11; 
+	P1.name= "Shreeya";
+	P1.grade= 6;
+}
